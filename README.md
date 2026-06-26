@@ -20,11 +20,4 @@ Smart Expense Tracker with Analytics is a Python-based application that helps us
 - Matplotlib
 - NumPy
 
-## Project Structure
 
-Smart Expense Tracker
-│
-├── app.py
-├── expenses.csv
-├── requirements.txt
-└── README.md
